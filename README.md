@@ -1,7 +1,7 @@
 ## Hi, I am Aditya! ✨
 
 🧠 Computer science student at Galgotias University</br>
-🔭 I’m currently working on building different kinds of project</br>
+🔭 I’m currently working on developing my skills and building different kinds of project</br>
 🌱 I’m currently learning Full stack development and dsa</br>
 👯 I’m looking to collaborate</br>
 💬 Ask me about anything!</br>
